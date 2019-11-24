@@ -95,6 +95,15 @@ Redis配置在settings.py中
 ![表结构图.png](https://i.loli.net/2019/11/22/MUHSdLR261isIgh.png)
 
 # 效果图
+
+项目demo网址：[http://shop.yueqi.cf/home](http://shop.yueqi.cf/home)
+
+## 登录
+
+![登录页面.png](https://i.loli.net/2019/11/22/SgnvmUbKdcNW4Mq.png)
+
+
+
 ## 首页
 
 ![首页.png](https://i.loli.net/2019/11/22/QNmeDf9UckaYVpF.png)
@@ -109,10 +118,6 @@ Redis配置在settings.py中
 ![课程详情.png](https://i.loli.net/2019/11/22/foj7sxiV6PZ8zmk.png)
 
 
-
-## 登录
-
-![登录页面.png](https://i.loli.net/2019/11/22/SgnvmUbKdcNW4Mq.png)
 
 ## 购物车
 
