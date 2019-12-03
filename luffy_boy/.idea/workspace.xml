@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="66e08106-aa8e-47c9-b1cb-76a18bd778d0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="luffy_boy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -231,8 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -243,7 +243,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,6 +268,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -483,12 +483,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Django server.luffy_boy" />
-      <item itemvalue="Python.tests" />
-      <item itemvalue="Python.tests2" />
       <item itemvalue="Python.订单延迟取消" />
       <item itemvalue="Python.cancel_order" />
       <item itemvalue="Python.payment" />
+      <item itemvalue="Python.tests2" />
+      <item itemvalue="Python.tests" />
+      <item itemvalue="Django server.luffy_boy" />
     </list>
     <recent_temporary>
       <list>
@@ -516,11 +516,13 @@
       <workItem from="1574310326569" duration="59000" />
       <workItem from="1574317140582" duration="16349000" />
       <workItem from="1574472410636" duration="567000" />
+      <workItem from="1574639308896" duration="293000" />
+      <workItem from="1574771000065" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126053000" />
+    <option name="totallyTimeSpent" value="126352000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -532,9 +534,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1280" height="777" extended-state="1" />
+    <frame x="0" y="24" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27948305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28756058" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />

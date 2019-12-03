@@ -96,7 +96,7 @@ Redis配置在settings.py中
 
 # 效果图
 
-项目demo网址：[http://shop.yueqi.cf/home](http://shop.yueqi.cf/home)
+项目demo网址：[http://shop.yueqi.cf:8880/home](http://shop.yueqi.cf:8880/home)
 
 ## 登录
 
